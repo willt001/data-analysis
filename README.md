@@ -4,4 +4,4 @@ In this project I aimed to do exploratory data analysis on the publicly availabl
 ## Stock Price vs Revenue
 In this project I wanted to create a tool to compare company Stock Prices and Revenue using online data sources. I made use of the Yahoo Finance API to obtain stock data, Requests and BeautifulSoup Libraries for webscraping to obtain revenue data, Matplotlib and Seaborn for Data Visualisation.
 ## Capstone Dashboard
-This dashboard was the culmination of the IBM Data Analyst Professional Certificate which I finished in January 2023. I used Cognos Analytics to create the dashboard.
+This dashboard was the culmination of the IBM Data Analyst Professional Certificate which I finished in January 2023. I used Cognos Analytics to create the dashboard. See certificate at [Data Analyst Certificate](https://gb.coursera.org/account/accomplishments/professional-cert/ZPR2PENSYCK9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
