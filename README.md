@@ -1,4 +1,4 @@
-# data-analysis-projects
+# data-analysis
 ## Airbnb London EDA
 In this project I aimed to do exploratory data analysis on the publicly available listings data available from Airbnb. I made use of Jupyter Notebook and Python packages including Pandas, Seaborn, Matplotlib, Numpy and Folium for data manipulation and visualisation.
 ## Stock Price vs Revenue
